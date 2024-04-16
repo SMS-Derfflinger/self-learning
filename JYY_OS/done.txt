@@ -1,0 +1,7 @@
+
+注意：从skeleton仓库拉取代码时使用PowerShell的bash，别使用WSL2的bash
+
+√课程：第五周第二节
+
+√lab：	M1
+	
