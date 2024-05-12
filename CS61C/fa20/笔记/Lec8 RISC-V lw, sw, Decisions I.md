@@ -29,4 +29,12 @@ sw x10,40(x15) # A[10] = h + A[3]
 
 RISC-V中除了lw、sw（字操作）之外，还提供lb、sb（字节操作）指令
 
-**Lec7 第3节**
+# Computer Decision Making
+
+* if-statement instruction is beq reg1, reg2, L1
+means: 如果相等则跳转
+* bne reg1, reg2, L1 means:如果不相等则跳转
+* branch if less than: blt
+* branch if greater than or equal: bge
+* unsigned版本：bltu, bgeu
+* 无条件分支：j lable
